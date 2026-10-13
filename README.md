@@ -21,6 +21,7 @@ On Linux you can also install Yark with [OTinstaller](https://github.com/OSINTVe
 
 ```shell
 $ pipx install otinstaller
+$ otinstaller init
 $ otinstaller install yark
 $ otinstaller run yark -- new foobar https://www.youtube.com/channel/UCSMdm6bUYIBN0KfS2CVuEPA
 ```
